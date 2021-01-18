@@ -11,7 +11,7 @@ public class CalculadorDiferencaIdade {
                 
             Scanner scanner = new Scanner (System.in);
                 double distanciaPercorrida = scanner.nextDouble ();
-                scanner.nclose();
+                scanner.close();
                 
                 
 
