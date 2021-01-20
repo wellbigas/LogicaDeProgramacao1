@@ -1,4 +1,4 @@
-import java.util.Scanner
+import java.util.Scanner;
 
 public class CalculadorDiferencaIdade {
         public static void main(String[] args) {
@@ -6,7 +6,7 @@ public class CalculadorDiferencaIdade {
             int secondAge = 22;
             int ageDifferent = firstAge - secondAge;
             System.out.println("A diferença entre as idades é =" + ageDifferent);
-             
+
             /*
               Lendo informações com Scanner
             */
@@ -16,7 +16,7 @@ public class CalculadorDiferencaIdade {
                 scanner.close();
                 
                 
-
-        }
-
     }
+
+}
+
