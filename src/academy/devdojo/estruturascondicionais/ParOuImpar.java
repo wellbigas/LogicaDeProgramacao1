@@ -1,3 +1,5 @@
+package academy.devdojo.estruturascondicionais;
+
 /*
 Dado um detemrinado numero inteiro
 Imprima se ele é impar ou par

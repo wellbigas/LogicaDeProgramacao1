@@ -1,4 +1,4 @@
-/*
+package academy.devdojo.estruturascondicionais;/*
 if (true) ou (false) sempre vai ter uma condição sempre sera executada, caso for false não, se o else{} tiver em seguida
 sera executada logo em seguida
 */

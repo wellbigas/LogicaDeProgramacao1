@@ -1,3 +1,5 @@
+package academy.devdojo.estruturascondicionais;
+
 import jdk.swing.interop.SwingInterOpUtils;
 
 import javax.swing.plaf.synth.SynthOptionPaneUI;

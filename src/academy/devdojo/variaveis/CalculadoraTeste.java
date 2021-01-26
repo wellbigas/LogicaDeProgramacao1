@@ -1,3 +1,5 @@
+package academy.devdojo.variaveis;
+
 public class CalculadoraTeste {
     public static void main (String [] args) {
         int valores = 2;

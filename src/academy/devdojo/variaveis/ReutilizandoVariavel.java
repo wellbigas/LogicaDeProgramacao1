@@ -1,4 +1,4 @@
-/*
+package academy.devdojo.variaveis;/*
 Crie uma variavél que irá guardar o valor de um salário
 Calcule a porcentagem desse salário, os valores da porcentagem serão
 *30%

@@ -1,3 +1,5 @@
+package academy.devdojo.estruturascondicionais;
+
 /*
 Eu como usuario gostaria de ter o nome e a idade de participantes de
 um torneio de natacao e que o sistema imrpimisse da segunte forma
