@@ -1,3 +1,13 @@
+/*
+&& (AND)  - PARA IMPRIMIR VALOR VERDADEIRO TEM QUE TER O PRIMEITO & TRUE E O SEGUNDO & TRUE - SE NÃO SERÁ FALSE.
+VV = V (TRUE)
+VF = F (FALSE)
+FV = F (FALSE)
+FF = F (FALSE)
+
+|| (OR) - BASTA UMA QUE SEJA VERDADEIRA PARA SER EXECUTADA.
+ */
+
 import java.util.Scanner;
 
 public class TorneioDeNatacaoScanner {
