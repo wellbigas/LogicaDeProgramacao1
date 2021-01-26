@@ -1,4 +1,4 @@
-package academy.devdojo.estruturascondicionais;
+package academy.devdojo.estruturascondicionais.ifselse;
 
 /*
 Dado um detemrinado numero inteiro

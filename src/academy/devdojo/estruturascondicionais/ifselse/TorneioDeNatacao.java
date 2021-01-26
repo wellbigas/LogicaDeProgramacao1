@@ -1,4 +1,4 @@
-package academy.devdojo.estruturascondicionais;
+package academy.devdojo.estruturascondicionais.ifselse;
 
 /*
 Eu como usuario gostaria de ter o nome e a idade de participantes de
